@@ -1,13 +1,3 @@
-# PlainML
-Painless Machine Learning for python based on [scikit-learn](https://scikit-learn.org/stable/).
-
-## Install
-```
-pip install plainml
-```
-
-## Example
-```py
 from plainml import KnnModel, load_iris, train_test_split
 
 dt = load_iris()
@@ -23,7 +13,3 @@ print(model.score(x_test, y_test))
 print(model.predict([[5.1, 3.5, 1.4, 0.2]]))
 
 model.save(file_name='iris_knn.pkl')
-```
-
-## License
-[MIT](LICENSE)
