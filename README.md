@@ -26,4 +26,4 @@ model.save(file_name='iris_knn.pkl')
 ```
 
 ## License
-[MIT](LICENSE)
+[MIT](LICENSE).
