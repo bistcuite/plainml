@@ -1,5 +1,5 @@
 # PlainML
-Painless Machine Learning for python based on [scikit-learn](https://scikit-learn.org/stable/).
+Painless Machine Learning Library for python based on [scikit-learn](https://scikit-learn.org/stable/).
 
 ## Install
 ```
