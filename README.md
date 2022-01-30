@@ -31,6 +31,7 @@ model.save(file_name='iris_knn.pkl')
 ## Todo
 - `run_api` method(**WIP**)
 - `create_dashboard` method
+- AutoML
 
 ## License
 [MIT](LICENSE)
