@@ -28,5 +28,8 @@ print(model.predict([[5.1, 3.5, 1.4, 0.2]]))
 model.save(file_name='iris_knn.pkl')
 ```
 
+## Todo
+- `run_api` method(**WIP**)
+
 ## License
 [MIT](LICENSE)
