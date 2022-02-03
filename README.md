@@ -34,4 +34,4 @@ model.save(file_name='iris_knn.pkl')
 - AutoML
 
 ## License
-[MIT](LICENSE)
+[MIT License](LICENSE)
