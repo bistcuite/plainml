@@ -4,7 +4,7 @@ Painless Machine Learning Library for python based on [scikit-learn](https://sci
 [![Pypi](https://img.shields.io/pypi/v/plainml)](https://pypi.org/project/plainml)
 [![Downloads](https://pepy.tech/badge/plainml)](https://pepy.tech/project/plainml)
 
-## Install
+## Installation
 ```
 pip install plainml
 ```
