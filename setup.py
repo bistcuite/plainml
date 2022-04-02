@@ -6,12 +6,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup (
     name='plainml',
     version='0.1',
-    packages=['plainml'],
+    packages=['plainml', 'plainml.linear','plainml.preprocessing'],
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/bistcuite/plainml",
+    url="https://github.com/KaspiElectronics/plainml",
     install_requires=[
-        'scikit-learn',
         'numpy',
         'pandas',
         'joblib',
